@@ -1,0 +1,19 @@
+@use 'globals';
+@use 'components';
+
+.attribution {
+    padding-bottom: 1rem;
+    color: #303778;
+    font-size: 1rem;
+    font-weight: 900;
+    font-style: italic;
+    text-align: center;
+}
+
+.attribution a {
+    color: #6a73d6;
+}
+
+.attribution a:hover {
+    color: #404cd1;
+}
